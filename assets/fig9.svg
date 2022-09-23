@@ -5,8 +5,8 @@
    version="1.1"
    id="svg560"
    width="348.57202"
-   height="251.58214"
-   viewBox="0 0 348.57202 251.58213"
+   height="195.64406"
+   viewBox="0 0 348.57202 195.64405"
    sodipodi:docname="fig9.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -967,25 +967,6 @@
        width="282.26971"
        height="110.88333"
        id="rect408685-1" />
-    <marker
-       style="overflow:visible"
-       id="marker408748"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow5"
-       markerWidth="5.8874264"
-       markerHeight="6.6094756"
-       viewBox="0 0 5.8874262 6.6094758"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
-         id="path408746" />
-    </marker>
     <rect
        x="181.9268"
        y="-18.444628"
@@ -1005,7 +986,7 @@
      showgrid="false"
      inkscape:zoom="0.86979091"
      inkscape:cx="342.61108"
-     inkscape:cy="197.74868"
+     inkscape:cy="141.4133"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -1017,7 +998,7 @@
        y="0"
        id="page566"
        width="348.57202"
-       height="251.58212"
+       height="195.64404"
        inkscape:export-filename="fig9.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
@@ -1026,7 +1007,7 @@
      id="g568"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,1.3333333,-185.61536,-227.1937)">
+     transform="matrix(1.3333333,0,0,1.3333333,-185.61536,-283.13178)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.8;stroke-dasharray:none;marker-start:url(#Arrow5);marker-end:url(#Arrow5)"
        d="m 393.34349,333.23763 c 0,0 -189.31678,1.77508 -194.35908,0 V 219.64621"
@@ -1173,15 +1154,15 @@
        style="font-size:24px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:center;white-space:pre;shape-inside:url(#rect408621-6);display:inline;fill:#cccccc;stroke:#0000ff;stroke-width:2.4;stroke-dasharray:none"><tspan
          x="119.89453"
          y="-158.97913"
-         id="tspan1527"><tspan
+         id="tspan2911"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan1525">Surface 
+           id="tspan2909">Surface 
 </tspan></tspan><tspan
          x="94.253906"
          y="-128.97913"
-         id="tspan1531"><tspan
+         id="tspan2915"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan1529">displacement</tspan></tspan></text>
+           id="tspan2913">displacement</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.75000002,0,0,0.75000002,91.809543,457.26057)"
@@ -1189,27 +1170,7 @@
        style="font-size:24px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:center;white-space:pre;shape-inside:url(#rect408685-1);display:inline;fill:#000000;stroke:none;stroke-width:2.4;stroke-dasharray:none"><tspan
          x="219.51367"
          y="-131.13928"
-         id="tspan1533">Time</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-dasharray:none;marker-start:url(#marker408748)"
-       d="m 278.78876,251.96136 c -32.76535,-8.61593 -34.327,-30.89143 -3.87351,-45.17183"
-       id="path408695"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.75000002,0,0,0.75000002,73.988043,180.43285)"
-       id="text408792"
-       style="font-size:24px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:center;white-space:pre;shape-inside:url(#rect408794-8);display:inline;fill:none;stroke:#000000;stroke-width:2.4;stroke-dasharray:none"><tspan
-         x="183.01855"
-         y="3.3743877"
-         id="tspan1537"><tspan
-           style="fill:#000000;stroke:none"
-           id="tspan1535">Use elastic timeseries  to </tspan></tspan><tspan
-         x="190.21973"
-         y="33.374388"
-         id="tspan1541"><tspan
-           style="fill:#000000;stroke:none"
-           id="tspan1539">correct GPS time series</tspan></tspan></text>
+         id="tspan2917">Time</tspan></text>
     <path
        style="fill:#cccccc;stroke:#000000;stroke-width:1.8;stroke-dasharray:none"
        id="path408428-0"

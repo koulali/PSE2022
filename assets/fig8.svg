@@ -5,8 +5,8 @@
    version="1.1"
    id="svg560"
    width="348.57202"
-   height="221.25874"
-   viewBox="0 0 348.57202 221.25874"
+   height="195.64406"
+   viewBox="0 0 348.57202 195.64406"
    sodipodi:docname="fig8.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -21,25 +21,6 @@
        width="246.04962"
        height="70.904251"
        id="rect408794" />
-    <marker
-       style="overflow:visible"
-       id="marker408748"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Arrow5"
-       markerWidth="5.8874264"
-       markerHeight="6.6094756"
-       viewBox="0 0 5.8874262 6.6094758"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="m 6,0 c -3,1 -7,3 -9,5 0,0 0,-4 2,-5 -2,-1 -2,-5 -2,-5 2,2 6,4 9,5 z"
-         id="path408746" />
-    </marker>
     <rect
        x="103.08243"
        y="-152.95972"
@@ -987,7 +968,7 @@
      showgrid="false"
      inkscape:zoom="0.86979091"
      inkscape:cx="331.11406"
-     inkscape:cy="171.30554"
+     inkscape:cy="146.0121"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -999,7 +980,7 @@
        y="0"
        id="page566"
        width="348.57202"
-       height="221.25874"
+       height="195.64406"
        inkscape:export-filename="fig8.png"
        inkscape:export-xdpi="360"
        inkscape:export-ydpi="360" />
@@ -1008,7 +989,7 @@
      id="g568"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,1.3333333,-197.52418,-253.77361)">
+     transform="matrix(1.3333333,0,0,1.3333333,-197.52418,-279.3883)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.8;stroke-dasharray:none;marker-start:url(#Arrow5);marker-end:url(#Arrow5)"
        d="m 402.27511,330.43002 c 0,0 -189.31678,1.77508 -194.35908,0 V 216.8386"
@@ -1050,15 +1031,15 @@
        style="font-size:24px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:center;white-space:pre;shape-inside:url(#rect408621);display:inline;fill:#cccccc;stroke:#0000ff;stroke-width:2.4;stroke-dasharray:none"><tspan
          x="119.89453"
          y="-158.97913"
-         id="tspan1267"><tspan
+         id="tspan2607"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan1265">Surface 
+           id="tspan2605">Surface 
 </tspan></tspan><tspan
          x="94.253906"
          y="-128.97913"
-         id="tspan1271"><tspan
+         id="tspan2611"><tspan
            style="fill:#000000;stroke:none"
-           id="tspan1269">displacement</tspan></tspan></text>
+           id="tspan2609">displacement</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.75000002,0,0,0.75000002,100.74116,454.45296)"
@@ -1066,26 +1047,6 @@
        style="font-size:24px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:center;white-space:pre;shape-inside:url(#rect408685);display:inline;fill:#000000;stroke:none;stroke-width:2.4;stroke-dasharray:none"><tspan
          x="219.51367"
          y="-131.13928"
-         id="tspan1273">Time</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.8;stroke-dasharray:none;marker-start:url(#marker408748)"
-       d="m 268.208,280.35401 c -1.26195,-20.82926 0.37962,-35.15229 30.83311,-49.43269"
-       id="path408695"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.75000002,0,0,0.75000002,93.314132,200.36778)"
-       id="text408792"
-       style="font-size:24px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:center;white-space:pre;shape-inside:url(#rect408794);display:inline;fill:none;stroke:#000000;stroke-width:2.4;stroke-dasharray:none"><tspan
-         x="194.44434"
-         y="3.3743877"
-         id="tspan1277"><tspan
-           style="fill:#000000;stroke:none"
-           id="tspan1275">Use the rate to correct </tspan></tspan><tspan
-         x="234.9502"
-         y="33.374388"
-         id="tspan1281"><tspan
-           style="fill:#000000;stroke:none"
-           id="tspan1279">GPS velocities</tspan></tspan></text>
+         id="tspan2613">Time</tspan></text>
   </g>
 </svg>

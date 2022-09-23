@@ -54,12 +54,11 @@ SCAR-PSE workshop Sept 29 – Oct 1, 2022
 
 - Impacts of sea level rise are driven by relative motion of the sea with respect to land.
 
-- GNSS data constrain vertical VLM near cost and inland. 
+- GNSS data constrain VLM near coast and inland. 
 
 - Solid Earth VLM shows highly variable spatial and temporal scales.  
 
 - Diversity of processes contributing to VLM.
-
 
 ===============================================================================
 
@@ -106,7 +105,7 @@ Continuous GPS sites from UNAVCO's archive.
 </div>
 <div class="col">
 
-- Better power solutions at the majority of sites;
+- Better solar/wind power solutions at the majority of sites;
 
 - Instruments transmitting data in real time, direct to UNAVCO;
 
@@ -176,7 +175,7 @@ UKANET-GNSS network status
 
 <img style="width: 100%" src="assets/fig6.svg">
 
-- The 2016 three-monthly mean of the SMB anomalies from RACMO2.3, over the Southern Antarctic Peninsula, shows a very pronounced variation.;
+- The 2016 three-monthly mean of the SMB anomalies from RACMO2.3, over the Southern Antarctic Peninsula, show a very pronounced variation.
 
 - The anomalies exhibit an east-west pattern.
 
@@ -187,7 +186,7 @@ UKANET-GNSS network status
 
 <div class="quote dark">
 
-We consider deformation due to annual and interannual fluctuations of SMB<br> to be purely elastic in this region.
+We consider deformation due to annual and interannual changes in SMB<br> to be purely elastic in this region.
 
 </div>
 
@@ -212,16 +211,19 @@ We investigate two approaches for the calculation of the elastic deformation sig
 <div class="col">
 
 
-1 - Time Series Approach:
+- Time Series Approach:
+  - use elastic loading to correct daily/weekly/monthly GPS
+  - estimate long-term (linear) VLM from corrected GPS time series
+
 <img style="width: 60%" src="assets/fig9.png">
 
 </div>
 <div class="col">
 
-2 - "Linear Rates Approach":
+- "Linear Rates Approach" → assumes SMB loading trend is constant in time
+  - estimate linear trends separately in GPS and elastic loading (not necessarily over same time period / sampling)
+  - use linear loading rate to correct GPS trend
 <img style="width: 60%" src="assets/fig8.png">
-
-→ This approach assumes SMB loading trend is constant in time.
 
 </div>
 </div>
@@ -253,9 +255,9 @@ For our study, we consider 3 periods: <mark>2010-2014 / 2014-2017 & 2010-2017</m
 
 # SMB Elastic correction: "Linear rate" vs "Time series"
 
-<img style="width: 60%" src="assets/fig12.svg">
+<img style="width: 56%" src="assets/fig12.svg">
 
-- Corrected velocities over 2010–2014 differ from those of 2014–2017 or 20102017.
+- Corrected velocities over 2010–2014 differ from those of 2014–2017 or 2010-2017.
 
 - This is a result of the large magnitude, time-dependent nature of surface mass change.
 
@@ -263,11 +265,12 @@ For our study, we consider 3 periods: <mark>2010-2014 / 2014-2017 & 2010-2017</m
 
 # SMB Elastic correction time series (model resolution)
 
-<img style="width: 55%" src="assets/fig13.svg">
+<img style="width: 53%" src="assets/fig13.svg">
 
-- We observe a WRMS reduction after correcting for SMB effects compared with the raw time series.
+- WRMS reduction after correcting for SMB effects compared with the raw time series.
 
-- The highest reduction in the WRMS occurs for the RACMO2.3 high resolution (5.5 km) model [See also Martín-Español et al. (2016)].
+- The highest reduction in the WRMS occurs for the RACMO2.3 high resolution
+(5.5 km) model [See also Martín-Español et al. (2016)].
 
 ===============================================================================
 
@@ -284,7 +287,7 @@ For our study, we consider 3 periods: <mark>2010-2014 / 2014-2017 & 2010-2017</m
 <div class="row">
 <div class="col">
 
-<img style="width: 100%" src="assets/fig14.svg">
+<img style="width: 93%" src="assets/fig14.svg">
 
 </div>
 <div class="col">
@@ -292,7 +295,7 @@ For our study, we consider 3 periods: <mark>2010-2014 / 2014-2017 & 2010-2017</m
 <br> <br>
 Although all models reproduce well the overall pattern of deformation at most sites, disagreements are seen in different sites;
 
-The solution of Gunter2014 is the closest to the GPS observations, with a WRMS of 0.95 mm/yr;
+The solution of Gunter2014 is the closest to our GPS observations, with a WRMS of 0.95 mm/yr;
 
 </div>
 </div>
