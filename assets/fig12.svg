@@ -40,15 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.0152328"
-     inkscape:cx="249.20392"
-     inkscape:cy="214.72907"
+     inkscape:zoom="1.435756"
+     inkscape:cx="209.64565"
+     inkscape:cy="248.64949"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g417768">
+     inkscape:current-layer="g418310">
     <inkscape:page
        x="0"
        y="0"
@@ -1425,10 +1425,10 @@
            transform="matrix(1,0,0,-1,250.755,247.098)"
            style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text418864"><tspan
-             x="0 9.3360004 17.34 25.344 28.68 35.352001 42.023998 44.688"
+             x="0 9.3360004 17.34 25.344"
              y="0"
              sodipodi:role="line"
-             id="tspan418854">GPS only</tspan><tspan
+             id="tspan418854">GPS (no correction)</tspan><tspan
              x="0 8.6639996 15.336 19.332001 23.327999 30 36 39.335999 46.007999 52.68 56.015999 64.019997 70.692001 73.356003 76.692001 80.688004 88.019997 90.683998 100.68 107.352 110.688 116.688 123.36 127.356 130.02 136.692 142.692 146.028 152.7 159.37199 166.04401 170.03999 176.71201 183.384 189.384 196.056"
              y="13.2"
              sodipodi:role="line"
